@@ -1,0 +1,4 @@
+node_modules/
+bookmarks.json
+*.log
+.DS_Store

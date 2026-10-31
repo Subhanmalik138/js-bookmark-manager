@@ -1,0 +1,1 @@
+{"bin":{"bookmarks":"./src/cli.js"},"description":"Zero-dependency bookmark manager CLI: collections, tags, full-text search, import/export, and duplicate detection.","engines":{"node":">=18"},"license":"MIT","main":"src/store.js","name":"bookmark-manager","scripts":{"start":"node src/cli.js","test":"node --test tests/"},"type":"commonjs","version":"1.0.0"}
